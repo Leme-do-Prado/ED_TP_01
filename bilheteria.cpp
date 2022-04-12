@@ -6,6 +6,9 @@ using namespace std;
 #define row 15
 #define col 40
 
+/* Projeto INCOMPLETO / Defeituoso. A ser revisto e atualizado durante os próximos dias. 
+*/
+
 int main()
 {
     int op;
